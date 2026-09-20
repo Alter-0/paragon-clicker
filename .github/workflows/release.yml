@@ -1,0 +1,70 @@
+name: Build and Release
+
+on:
+  push:
+    tags:
+      - 'v*'
+  workflow_dispatch:
+    inputs:
+      tag_name:
+        description: '发布版本号 (如 v0.1.0)'
+        required: false
+        default: 'v0.1.0'
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    name: Build & Publish Release (Windows x64)
+    runs-on: windows-latest
+
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v4
+
+      - name: 配置 Rust 工具链
+        uses: dtolnay/rust-toolchain@stable
+        with:
+          targets: x86_64-pc-windows-msvc
+
+      - name: 启用 Cargo 缓存 (加速编译)
+        uses: Swatinem/rust-cache@v2
+
+      - name: 编译 Release 二进制文件
+        run: cargo build --release --locked
+
+      - name: 打包压缩文件
+        shell: pwsh
+        run: |
+          $exePath = "target/release/paragon-clicker-rust.exe"
+          $zipPath = "paragon-clicker-windows-x64.zip"
+          Compress-Archive -Path $exePath, "README.md" -DestinationPath $zipPath
+          Write-Host "打包完成: $zipPath"
+
+      - name: 计算版本标签名
+        id: get_tag
+        shell: pwsh
+        run: |
+          if ($env:GITHUB_REF -like "refs/tags/*") {
+            $tag = $env:GITHUB_REF.Substring(10)
+          } elseif ("${{ inputs.tag_name }}") {
+            $tag = "${{ inputs.tag_name }}"
+          } else {
+            $tag = "v0.1.0"
+          }
+          echo "tag=$tag" >> $env:GITHUB_OUTPUT
+
+      - name: 发布至 GitHub Releases
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ steps.get_tag.outputs.tag }}
+          name: Paragon Clicker ${{ steps.get_tag.outputs.tag }}
+          draft: false
+          prerelease: false
+          files: |
+            target/release/paragon-clicker-rust.exe
+            paragon-clicker-windows-x64.zip
+          generate_release_notes: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
