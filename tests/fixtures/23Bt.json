@@ -1,0 +1,2109 @@
+{
+  "source": "https://www.d2core.com/d4/planner?bd=23Bt&var=2",
+  "retrieved": "2026-09-19",
+  "root": {
+    "title": "【琉璃】S15自用自走懒人🐕术士构筑分享（2.0版本更新了简化操作版",
+    "char": "Warlock",
+    "season": 15
+  },
+  "variant": {
+    "name": "2.0版本改 高伤害但20秒多按一个键",
+    "paragon": {
+      "Paragon_Warlock_00": {
+        "data": [
+          "14_10_StartNodeWarlock",
+          "13_12_Generic_Normal_Will",
+          "13_11_Generic_Normal_Will",
+          "13_10_Generic_Normal_Will",
+          "11_12_Generic_Rare_075",
+          "12_12_Generic_Magic_Damage",
+          "10_12_Generic_Magic_HPPercent",
+          "11_11_Generic_Magic_HPPercent",
+          "6_12_Generic_Normal_Int",
+          "7_12_Generic_Normal_Will",
+          "8_12_Generic_Normal_Will",
+          "9_12_Generic_Normal_Will",
+          "6_10_Generic_Socket",
+          "6_11_Generic_Normal_Int",
+          "11_9_Generic_Magic_HPPercent",
+          "11_8_Generic_Rare_001",
+          "12_8_Generic_Magic_ResistanceAll",
+          "10_9_Generic_Normal_Will",
+          "9_9_Generic_Normal_Str",
+          "8_9_Generic_Normal_Will",
+          "7_9_Generic_Normal_Will",
+          "6_9_Generic_Normal_Dex",
+          "5_11_Generic_Magic_DamageToElite",
+          "4_11_Warlock_Rare_004",
+          "3_11_Generic_Magic_DamageToElite",
+          "2_11_Generic_Normal_Int",
+          "1_11_Generic_Normal_Will",
+          "1_10_Generic_Normal_Str",
+          "10_8_Generic_Magic_HPPercent",
+          "4_9_Warlock_Rare_003",
+          "5_9_Generic_Magic_Damage",
+          "0_10_Generic_Gate"
+        ],
+        "deleted": false,
+        "glyph": {
+          "6_10_Generic_Socket": "ParagonGlyph_128"
+        },
+        "glyphRank": {
+          "6_10_Generic_Socket": 150
+        },
+        "index": 0,
+        "rotate": 0,
+        "x": 0,
+        "y": 0
+      },
+      "Paragon_Warlock_01": {
+        "data": [
+          "10_20_Generic_Gate",
+          "5_15_Generic_Socket",
+          "5_16_Generic_Normal_Int",
+          "5_17_Generic_Magic_DamageDemonology",
+          "5_18_Warlock_Rare_009",
+          "5_19_Generic_Magic_DamageDemonology",
+          "6_19_Generic_Magic_Int",
+          "7_19_Generic_Normal_Will",
+          "8_19_Generic_Normal_Int",
+          "9_19_Generic_Normal_Will",
+          "10_19_Generic_Normal_Will",
+          "2_15_Warlock_Rare_010",
+          "3_15_Generic_Magic_Damage",
+          "4_15_Generic_Normal_Will",
+          "1_15_Generic_Magic_Damage",
+          "0_10_Generic_Gate",
+          "1_10_Generic_Normal_Str",
+          "1_11_Generic_Normal_Will",
+          "1_12_Generic_Normal_Int",
+          "1_13_Generic_Normal_Int",
+          "1_14_Generic_Magic_Str",
+          "15_13_Warlock_Rare_006",
+          "14_13_Generic_Magic_CriticalDamage",
+          "14_14_Generic_Magic_DamageDemonology",
+          "15_5_Warlock_Legendary_001",
+          "14_5_Generic_Normal_Will",
+          "14_6_Generic_Normal_Will",
+          "14_7_Generic_Normal_Int",
+          "14_8_Generic_Normal_Str",
+          "13_8_Generic_Normal_Int",
+          "13_9_Generic_Normal_Str",
+          "12_9_Generic_Normal_Dex",
+          "12_10_Generic_Normal_Int",
+          "12_11_Generic_Normal_Int",
+          "12_12_Generic_Normal_Will",
+          "13_12_Generic_Normal_Will",
+          "14_12_Generic_Magic_DamageDemonology",
+          "2_16_Generic_Magic_Str",
+          "6_18_Generic_Magic_DamageDemonology",
+          "4_18_Generic_Magic_Int",
+          "5_12_Generic_Normal_Int",
+          "5_13_Generic_Normal_Int",
+          "5_14_Generic_Normal_Will",
+          "8_12_Generic_Magic_ResistanceFire",
+          "7_12_Generic_Normal_Will",
+          "6_12_Generic_Normal_Int",
+          "9_11_Warlock_Rare_007",
+          "8_11_Generic_Magic_DamageReductionFromBleedingTarget",
+          "10_11_Generic_Magic_DamageReductionFromBleedingTarget",
+          "11_11_Generic_Normal_Dex",
+          "2_14_Generic_Magic_Damage",
+          "7_5_Warlock_Rare_008",
+          "7_6_Generic_Magic_HealingBonus",
+          "8_6_Generic_Magic_HPPercent",
+          "8_7_Generic_Normal_Will",
+          "8_8_Generic_Normal_Int",
+          "8_9_Generic_Normal_Will",
+          "9_9_Generic_Normal_Str",
+          "9_10_Generic_Magic_ResistanceFire",
+          "7_4_Generic_Magic_HPPercent",
+          "6_6_Generic_Magic_HPPercent"
+        ],
+        "glyph": {
+          "5_15_Generic_Socket": "ParagonGlyph_113"
+        },
+        "glyphRank": {
+          "5_15_Generic_Socket": 150
+        },
+        "index": 3,
+        "parent": "Paragon_Warlock_03",
+        "rotate": 2,
+        "x": 1,
+        "y": -1
+      },
+      "Paragon_Warlock_02": {
+        "data": [
+          "9_9_Warlock_Legendary_002",
+          "8_9_Generic_Normal_Will",
+          "8_8_Generic_Normal_Int",
+          "7_8_Generic_Normal_Int",
+          "6_8_Generic_Normal_Str",
+          "5_8_Generic_Normal_Will",
+          "5_5_Warlock_Rare_015",
+          "5_6_Generic_Magic_CriticalChance",
+          "5_7_Generic_Normal_Will",
+          "5_4_Generic_Magic_HPPercent",
+          "6_4_Generic_Magic_HPPercent",
+          "4_6_Generic_Magic_HPPercent",
+          "12_12_Generic_Socket",
+          "11_12_Generic_Normal_Will",
+          "10_12_Generic_Magic_MaximumWrath",
+          "9_12_Warlock_Rare_014",
+          "8_12_Generic_Magic_MaximumWrath",
+          "7_12_Generic_Normal_Will",
+          "6_12_Generic_Normal_Int",
+          "6_11_Generic_Normal_Int",
+          "6_10_Generic_Normal_Will",
+          "6_9_Generic_Normal_Dex",
+          "12_9_Warlock_Rare_013",
+          "12_10_Generic_Magic_Damage",
+          "12_11_Generic_Normal_Int",
+          "14_3_Warlock_Rare_012",
+          "13_3_Generic_Magic_HPPercent",
+          "12_3_Generic_Normal_Str",
+          "12_4_Generic_Normal_Str",
+          "12_5_Generic_Normal_Will",
+          "12_6_Generic_Normal_Int",
+          "12_7_Generic_Normal_Will",
+          "12_8_Generic_Magic_Damage",
+          "5_12_Generic_Normal_Int",
+          "4_12_Generic_Normal_Will",
+          "4_13_Generic_Magic_HPPercent",
+          "3_13_Generic_Magic_HPPercent",
+          "3_14_Warlock_Rare_016",
+          "10_0_Generic_Gate",
+          "10_1_Generic_Normal_Dex",
+          "10_2_Generic_Normal_Str",
+          "10_3_Generic_Normal_Will",
+          "11_3_Generic_Normal_Will",
+          "13_4_Generic_Magic_HPPercent",
+          "15_3_Generic_Magic_HPPercent",
+          "6_5_Generic_Magic_CriticalChance",
+          "13_12_Generic_Normal_Will",
+          "13_11_Generic_Normal_Will",
+          "13_10_Generic_Normal_Will"
+        ],
+        "glyph": {
+          "12_12_Generic_Socket": "ParagonGlyph_120"
+        },
+        "glyphRank": {
+          "12_12_Generic_Socket": 150
+        },
+        "index": 4,
+        "parent": "Paragon_Warlock_01",
+        "rotate": 1,
+        "x": 1,
+        "y": 0
+      },
+      "Paragon_Warlock_03": {
+        "data": [
+          "11_10_Generic_Magic_MaximumDominance",
+          "12_10_Warlock_Rare_018",
+          "13_10_Generic_Magic_Str",
+          "14_10_Generic_Normal_Will",
+          "15_10_Generic_Normal_Str",
+          "16_10_Generic_Normal_Int",
+          "17_10_Generic_Normal_Will",
+          "18_10_Generic_Normal_Will",
+          "19_10_Generic_Normal_Str",
+          "10_11_Generic_Normal_Int",
+          "11_11_Generic_Normal_Dex",
+          "10_12_Generic_Socket",
+          "12_11_Generic_Magic_MaximumDominance",
+          "13_11_Generic_Magic_MaximumDominance",
+          "9_10_Generic_Magic_Damage",
+          "9_11_Generic_Normal_Will",
+          "6_10_Generic_Normal_Will",
+          "7_10_Generic_Magic_Int",
+          "8_10_Warlock_Rare_021",
+          "6_4_Warlock_Rare_020",
+          "6_5_Generic_Magic_ResistanceFire",
+          "6_6_Generic_Magic_HPPercent",
+          "6_7_Generic_Normal_Will",
+          "6_8_Generic_Normal_Str",
+          "6_9_Generic_Normal_Dex",
+          "10_1_Generic_Normal_Dex",
+          "9_1_Generic_Normal_Int",
+          "9_2_Generic_Normal_Str",
+          "8_2_Generic_Normal_Will",
+          "8_3_Generic_Normal_Str",
+          "8_4_Generic_Magic_HPPercent",
+          "7_4_Generic_Magic_HPPercent",
+          "10_0_Generic_Gate",
+          "10_6_Warlock_Legendary_003",
+          "10_7_Generic_Normal_Int",
+          "9_7_Generic_Normal_Will",
+          "8_7_Generic_Normal_Will",
+          "7_7_Generic_Normal_Will",
+          "1_10_Generic_Normal_Str",
+          "2_10_Generic_Normal_Will",
+          "3_10_Generic_Normal_Will",
+          "4_10_Generic_Normal_Int",
+          "5_10_Generic_Normal_Str",
+          "4_14_Generic_Magic_HPPercent",
+          "4_13_Generic_Normal_Dex",
+          "4_12_Generic_Normal_Will",
+          "4_11_Generic_Normal_Str",
+          "3_14_Generic_Magic_HPPercent",
+          "3_15_Warlock_Rare_022",
+          "20_10_Generic_Gate",
+          "0_10_Generic_Gate"
+        ],
+        "glyph": {
+          "10_12_Generic_Socket": "ParagonGlyph_127"
+        },
+        "glyphRank": {
+          "10_12_Generic_Socket": 150
+        },
+        "index": 1,
+        "parent": "Paragon_Warlock_00",
+        "rotate": 3,
+        "x": 0,
+        "y": -1
+      },
+      "Paragon_Warlock_10": {
+        "data": [
+          "13_10_Warlock_Legendary_010",
+          "20_10_Generic_Gate",
+          "19_10_Generic_Normal_Str",
+          "19_9_Generic_Normal_Will",
+          "18_9_Generic_Normal_Will",
+          "18_8_Generic_Normal_Str",
+          "17_8_Generic_Normal_Int",
+          "16_8_Generic_Normal_Int",
+          "15_8_Generic_Normal_Will",
+          "15_9_Generic_Normal_Will",
+          "15_10_Generic_Normal_Str",
+          "14_10_Generic_Normal_Will",
+          "15_6_Generic_Magic_MaximumDominance",
+          "15_7_Warlock_Rare_053",
+          "14_6_Generic_Magic_MaximumDominance",
+          "16_6_Generic_Magic_MaximumDominance",
+          "15_14_Generic_Magic_MaximumDominance",
+          "15_13_Warlock_Rare_054",
+          "15_12_Generic_Normal_Int",
+          "15_11_Generic_Normal_Dex",
+          "14_14_Generic_Magic_MaximumDominance",
+          "16_14_Generic_Magic_MaximumDominance",
+          "14_13_Generic_Magic_HPPercent",
+          "16_13_Generic_Magic_HPPercent",
+          "6_10_Generic_Socket",
+          "6_9_Generic_Normal_Dex",
+          "6_8_Generic_Normal_Str",
+          "7_8_Generic_Normal_Int",
+          "8_8_Generic_Normal_Int",
+          "9_8_Generic_Normal_Int",
+          "10_8_Generic_Normal_Str",
+          "10_9_Generic_Normal_Will",
+          "10_10_Generic_Normal_Will",
+          "11_10_Generic_Normal_Str",
+          "12_10_Generic_Normal_Int",
+          "10_4_Warlock_Rare_055",
+          "8_5_Generic_Normal_Will",
+          "8_6_Generic_Normal_Int",
+          "8_7_Generic_Normal_Will",
+          "6_7_Generic_Magic_Int",
+          "5_8_Generic_Magic_Int",
+          "6_13_Generic_Magic_Str",
+          "6_12_Generic_Normal_Int",
+          "6_11_Generic_Normal_Int",
+          "5_13_Warlock_Rare_058",
+          "10_5_Generic_Magic_HPPercent",
+          "9_5_Generic_Magic_HPPercent",
+          "11_5_Generic_Magic_HPPercent"
+        ],
+        "glyph": {
+          "6_10_Generic_Socket": "ParagonGlyph_116"
+        },
+        "glyphRank": {
+          "6_10_Generic_Socket": 150
+        },
+        "index": 5,
+        "parent": "Paragon_Warlock_03",
+        "rotate": 3,
+        "x": -1,
+        "y": -1
+      }
+    },
+    "variantIndex": 2
+  },
+  "database": {
+    "Generic": {
+      "node": {
+        "Generic_Normal_Will": {
+          "name": "Generic Normal Will",
+          "attributes": [
+            {
+              "name": "Willpower",
+              "value": 5
+            }
+          ]
+        },
+        "Generic_Rare_075": {
+          "name": "至尊",
+          "attributes": [
+            {
+              "name": "ParagonNodeDamageBonus#252",
+              "value": 20
+            },
+            {
+              "name": "ParagonNodeHPMaxBonus#142",
+              "value": 4
+            }
+          ],
+          "threshold_requirements": {
+            "Druid": [
+              {
+                "value": "190+75*ParagonBoardEquipIndex",
+                "name": "Intelligence"
+              }
+            ],
+            "Rogue": [
+              {
+                "value": "190+75*ParagonBoardEquipIndex",
+                "name": "Intelligence"
+              }
+            ],
+            "Spiritborn": [
+              {
+                "value": "190+75*ParagonBoardEquipIndex",
+                "name": "Intelligence"
+              }
+            ],
+            "Paladin": [
+              {
+                "value": "190+75*ParagonBoardEquipIndex",
+                "name": "Intelligence"
+              },
+              {
+                "value": "190+75*ParagonBoardEquipIndex",
+                "name": "Willpower"
+              }
+            ],
+            "Warlock": [
+              {
+                "value": "190+75*ParagonBoardEquipIndex",
+                "name": "Intelligence"
+              }
+            ],
+            "Sorcerer": [
+              {
+                "value": "190+75*ParagonBoardEquipIndex",
+                "name": "Willpower"
+              }
+            ],
+            "Barbarian": [
+              {
+                "value": "190+75*ParagonBoardEquipIndex",
+                "name": "Willpower"
+              }
+            ],
+            "Necromancer": [
+              {
+                "value": "190+75*ParagonBoardEquipIndex",
+                "name": "Willpower"
+              }
+            ]
+          }
+        },
+        "Generic_Magic_Damage": {
+          "name": "Generic Magic Damage",
+          "attributes": [
+            {
+              "name": "ParagonNodeDamageBonus#252",
+              "value": 10
+            }
+          ]
+        },
+        "Generic_Magic_HPPercent": {
+          "name": "Generic Magic HPPercent",
+          "attributes": [
+            {
+              "name": "ParagonNodeHPMaxBonus#142",
+              "value": 2
+            }
+          ]
+        },
+        "Generic_Normal_Int": {
+          "name": "Generic Normal Int",
+          "attributes": [
+            {
+              "name": "Intelligence",
+              "value": 5
+            }
+          ]
+        },
+        "Generic_Socket": {
+          "name": "雕文插槽",
+          "attributes": []
+        },
+        "Generic_Rare_001": {
+          "name": "韧性",
+          "attributes": [
+            {
+              "name": "ParagonNodeResistAll#79",
+              "value": 3
+            },
+            {
+              "name": "ParagonNodeHPMaxBonus#142",
+              "value": 4
+            }
+          ],
+          "threshold_requirements": {
+            "Barbarian": [
+              {
+                "value": "700+455*ParagonBoardEquipIndex",
+                "name": "Strength"
+              },
+              {
+                "value": "190+70*ParagonBoardEquipIndex",
+                "name": "Dexterity"
+              },
+              {
+                "value": "210+75*ParagonBoardEquipIndex",
+                "name": "Dexterity"
+              }
+            ],
+            "Sorcerer": [
+              {
+                "value": "210+75*ParagonBoardEquipIndex",
+                "name": "Dexterity"
+              }
+            ],
+            "Druid": [
+              {
+                "value": "210+75*ParagonBoardEquipIndex",
+                "name": "Dexterity"
+              }
+            ],
+            "Necromancer": [
+              {
+                "value": "210+75*ParagonBoardEquipIndex",
+                "name": "Dexterity"
+              }
+            ],
+            "Rogue": [
+              {
+                "value": "210+75*ParagonBoardEquipIndex",
+                "name": "Strength"
+              }
+            ],
+            "Spiritborn": [
+              {
+                "value": "210+75*ParagonBoardEquipIndex",
+                "name": "Strength"
+              }
+            ],
+            "Warlock": [
+              {
+                "value": "210+75*ParagonBoardEquipIndex",
+                "name": "Strength"
+              }
+            ]
+          }
+        },
+        "Generic_Magic_ResistanceAll": {
+          "name": "Generic Magic ResistanceAll",
+          "attributes": [
+            {
+              "name": "ParagonNodeResistAll#79",
+              "value": 1.5
+            }
+          ]
+        },
+        "Generic_Normal_Str": {
+          "name": "Generic Normal Str",
+          "attributes": [
+            {
+              "name": "Strength",
+              "value": 5
+            }
+          ]
+        },
+        "Generic_Normal_Dex": {
+          "name": "Generic Normal Dex",
+          "attributes": [
+            {
+              "name": "Dexterity",
+              "value": 5
+            }
+          ]
+        },
+        "Generic_Magic_DamageToElite": {
+          "name": "Generic Magic DamageToElite",
+          "attributes": [
+            {
+              "name": "ParagonNodeDamageBonusToElite#950",
+              "value": 15
+            }
+          ]
+        },
+        "Generic_Gate": {
+          "name": "面板连接关口",
+          "attributes": [
+            {
+              "name": "Strength",
+              "value": 5
+            },
+            {
+              "name": "Intelligence",
+              "value": 5
+            },
+            {
+              "name": "Willpower",
+              "value": 5
+            },
+            {
+              "name": "Dexterity",
+              "value": 5
+            }
+          ]
+        },
+        "Generic_Magic_DamageDemonology": {
+          "name": "Generic Magic DamageDemonology",
+          "attributes": [
+            {
+              "name": "ParagonNodeDamageBonusTag#259#850110203",
+              "value": 35
+            }
+          ]
+        },
+        "Generic_Magic_Int": {
+          "name": "Generic Magic Int",
+          "attributes": [
+            {
+              "name": "Intelligence",
+              "value": 7
+            }
+          ]
+        },
+        "Generic_Magic_Str": {
+          "name": "Generic Magic Str",
+          "attributes": [
+            {
+              "name": "Strength",
+              "value": 7
+            }
+          ]
+        },
+        "Generic_Magic_CriticalDamage": {
+          "name": "Generic Magic CriticalDamage",
+          "attributes": [
+            {
+              "name": "ParagonNodeCritDamage#288",
+              "value": 15
+            }
+          ]
+        },
+        "Generic_Magic_ResistanceFire": {
+          "name": "Generic Magic ResistanceFire",
+          "attributes": [
+            {
+              "name": "ParagonNodeResistAll#79",
+              "value": 1.5
+            }
+          ]
+        },
+        "Generic_Magic_DamageReductionFromBleedingTarget": {
+          "name": "Generic Magic DamageReductionFromBleedingTarget",
+          "attributes": [
+            {
+              "name": "ParagonNodeArmorBonus#481",
+              "value": 1.5
+            }
+          ]
+        },
+        "Generic_Magic_HealingBonus": {
+          "name": "Generic Magic HealingBonus",
+          "attributes": [
+            {
+              "name": "ParagonNodeHealingBonus#65",
+              "value": 3
+            }
+          ]
+        },
+        "Generic_Magic_CriticalChance": {
+          "name": "Generic Magic CriticalChance",
+          "attributes": [
+            {
+              "name": "ParagonNodeCritChance#275",
+              "value": 1
+            }
+          ]
+        },
+        "Generic_Magic_MaximumWrath": {
+          "name": "Generic Magic MaximumWrath",
+          "attributes": [
+            {
+              "name": "ParagonNodeResourceBonus#161#10",
+              "value": 4
+            }
+          ]
+        },
+        "Generic_Magic_MaximumDominance": {
+          "name": "Generic Magic MaximumDominance",
+          "attributes": [
+            {
+              "name": "Generic_Magic_MaximumDominance#161#11",
+              "value": 1
+            }
+          ]
+        }
+      },
+      "glyph": {},
+      "board": {}
+    },
+    "Warlock": {
+      "node": {
+        "StartNodeWarlock": {
+          "name": "巅峰等级起始节点",
+          "attributes": []
+        },
+        "Warlock_Rare_004": {
+          "name": "支配",
+          "attributes": [
+            {
+              "name": "ParagonNodeDamageBonusToElite#950",
+              "value": 30
+            },
+            {
+              "name": "Willpower",
+              "value": 10
+            }
+          ],
+          "threshold_requirements": {
+            "Rogue": [
+              {
+                "value": "190+75*ParagonBoardEquipIndex",
+                "name": "Strength"
+              }
+            ],
+            "Spiritborn": [
+              {
+                "value": "190+75*ParagonBoardEquipIndex",
+                "name": "Strength"
+              }
+            ],
+            "Warlock": [
+              {
+                "value": "190+75*ParagonBoardEquipIndex",
+                "name": "Strength"
+              }
+            ]
+          }
+        },
+        "Warlock_Rare_003": {
+          "name": "扭曲",
+          "attributes": [
+            {
+              "name": "ParagonNodeDamageBonus#252",
+              "value": 20
+            },
+            {
+              "name": "Willpower",
+              "value": 10
+            }
+          ],
+          "threshold_requirements": {
+            "Druid": [
+              {
+                "value": "210+75*ParagonBoardEquipIndex",
+                "name": "Intelligence"
+              }
+            ],
+            "Rogue": [
+              {
+                "value": "210+75*ParagonBoardEquipIndex",
+                "name": "Intelligence"
+              }
+            ],
+            "Spiritborn": [
+              {
+                "value": "210+75*ParagonBoardEquipIndex",
+                "name": "Intelligence"
+              }
+            ],
+            "Paladin": [
+              {
+                "value": "210+75*ParagonBoardEquipIndex",
+                "name": "Intelligence"
+              }
+            ],
+            "Warlock": [
+              {
+                "value": "210+75*ParagonBoardEquipIndex",
+                "name": "Intelligence"
+              }
+            ]
+          }
+        },
+        "Warlock_Rare_009": {
+          "name": "连锁",
+          "attributes": [
+            {
+              "name": "ParagonNodeDamageBonusTag#259#850110203",
+              "value": 35
+            },
+            {
+              "name": "Willpower",
+              "value": 10
+            }
+          ],
+          "threshold_requirements": {
+            "Druid": [
+              {
+                "value": "210+75*ParagonBoardEquipIndex",
+                "name": "Intelligence"
+              }
+            ],
+            "Rogue": [
+              {
+                "value": "210+75*ParagonBoardEquipIndex",
+                "name": "Intelligence"
+              }
+            ],
+            "Spiritborn": [
+              {
+                "value": "210+75*ParagonBoardEquipIndex",
+                "name": "Intelligence"
+              }
+            ],
+            "Paladin": [
+              {
+                "value": "210+75*ParagonBoardEquipIndex",
+                "name": "Intelligence"
+              }
+            ],
+            "Warlock": [
+              {
+                "value": "210+75*ParagonBoardEquipIndex",
+                "name": "Intelligence"
+              }
+            ]
+          }
+        },
+        "Warlock_Rare_010": {
+          "name": "契约印记",
+          "attributes": [
+            {
+              "name": "ParagonNodeDamageBonus#252",
+              "value": 20
+            },
+            {
+              "name": "Willpower",
+              "value": 10
+            }
+          ],
+          "threshold_requirements": {
+            "Rogue": [
+              {
+                "value": "230+75*ParagonBoardEquipIndex",
+                "name": "Strength"
+              }
+            ],
+            "Spiritborn": [
+              {
+                "value": "230+75*ParagonBoardEquipIndex",
+                "name": "Strength"
+              }
+            ],
+            "Warlock": [
+              {
+                "value": "230+75*ParagonBoardEquipIndex",
+                "name": "Strength"
+              }
+            ]
+          }
+        },
+        "Warlock_Rare_006": {
+          "name": "束缚",
+          "attributes": [
+            {
+              "name": "ParagonNodeDamageBonusTag#259#850110203",
+              "value": 35
+            },
+            {
+              "name": "ParagonNodeCritDamage#288",
+              "value": 30
+            }
+          ],
+          "threshold_requirements": {
+            "Druid": [
+              {
+                "value": "760+455*ParagonBoardEquipIndex",
+                "name": "Willpower"
+              }
+            ],
+            "Warlock": [
+              {
+                "value": "760+455*ParagonBoardEquipIndex",
+                "name": "Willpower"
+              }
+            ]
+          }
+        },
+        "Warlock_Legendary_001": {
+          "name": "无底深潜"
+        },
+        "Warlock_Rare_007": {
+          "name": "护盾符印",
+          "attributes": [
+            {
+              "name": "ParagonNodeArmorBonus#481",
+              "value": 3
+            },
+            {
+              "name": "ParagonNodeResistAll#79",
+              "value": 3
+            }
+          ],
+          "threshold_requirements": {
+            "Druid": [
+              {
+                "value": "190+75*ParagonBoardEquipIndex",
+                "name": "Intelligence"
+              }
+            ],
+            "Rogue": [
+              {
+                "value": "190+75*ParagonBoardEquipIndex",
+                "name": "Intelligence"
+              }
+            ],
+            "Spiritborn": [
+              {
+                "value": "190+75*ParagonBoardEquipIndex",
+                "name": "Intelligence"
+              }
+            ],
+            "Paladin": [
+              {
+                "value": "190+75*ParagonBoardEquipIndex",
+                "name": "Intelligence"
+              }
+            ],
+            "Warlock": [
+              {
+                "value": "190+75*ParagonBoardEquipIndex",
+                "name": "Intelligence"
+              }
+            ]
+          }
+        },
+        "Warlock_Rare_008": {
+          "name": "再生封印",
+          "attributes": [
+            {
+              "name": "ParagonNodeHPMaxBonus#142",
+              "value": 4
+            },
+            {
+              "name": "ParagonNodeHealingBonus#65",
+              "value": 6
+            }
+          ],
+          "threshold_requirements": {
+            "Warlock": [
+              {
+                "value": "700+455*ParagonBoardEquipIndex",
+                "name": "Willpower"
+              },
+              {
+                "value": "190+70*ParagonBoardEquipIndex",
+                "name": "Intelligence"
+              }
+            ]
+          }
+        },
+        "Warlock_Legendary_002": {
+          "name": "恶魔尖刺"
+        },
+        "Warlock_Rare_015": {
+          "name": "恶魔之墙",
+          "attributes": [
+            {
+              "name": "ParagonNodeCritChance#275",
+              "value": 2
+            },
+            {
+              "name": "ParagonNodeHPMaxBonus#142",
+              "value": 4
+            }
+          ],
+          "threshold_requirements": {
+            "Warlock": [
+              {
+                "value": "700+455*ParagonBoardEquipIndex",
+                "name": "Willpower"
+              },
+              {
+                "value": "190+70*ParagonBoardEquipIndex",
+                "name": "Intelligence"
+              }
+            ]
+          }
+        },
+        "Warlock_Rare_014": {
+          "name": "优势",
+          "attributes": [
+            {
+              "name": "ParagonNodeResourceBonus#161#10",
+              "value": 8
+            },
+            {
+              "name": "Willpower",
+              "value": 10
+            }
+          ],
+          "threshold_requirements": {
+            "Rogue": [
+              {
+                "value": "210+75*ParagonBoardEquipIndex",
+                "name": "Strength"
+              }
+            ],
+            "Spiritborn": [
+              {
+                "value": "210+75*ParagonBoardEquipIndex",
+                "name": "Strength"
+              }
+            ],
+            "Warlock": [
+              {
+                "value": "210+75*ParagonBoardEquipIndex",
+                "name": "Strength"
+              }
+            ]
+          }
+        },
+        "Warlock_Rare_013": {
+          "name": "脊刺",
+          "attributes": [
+            {
+              "name": "ParagonNodeDamageBonus#252",
+              "value": 20
+            },
+            {
+              "name": "Willpower",
+              "value": 10
+            }
+          ],
+          "threshold_requirements": {
+            "Druid": [
+              {
+                "value": "210+75*ParagonBoardEquipIndex",
+                "name": "Intelligence"
+              }
+            ],
+            "Rogue": [
+              {
+                "value": "210+75*ParagonBoardEquipIndex",
+                "name": "Intelligence"
+              }
+            ],
+            "Spiritborn": [
+              {
+                "value": "210+75*ParagonBoardEquipIndex",
+                "name": "Intelligence"
+              }
+            ],
+            "Paladin": [
+              {
+                "value": "210+75*ParagonBoardEquipIndex",
+                "name": "Intelligence"
+              }
+            ],
+            "Warlock": [
+              {
+                "value": "210+75*ParagonBoardEquipIndex",
+                "name": "Intelligence"
+              }
+            ]
+          }
+        },
+        "Warlock_Rare_012": {
+          "name": "鲜血防护",
+          "attributes": [
+            {
+              "name": "ParagonNodeHPMaxBonus#142",
+              "value": 4
+            },
+            {
+              "name": "ParagonNodeResistAll#79",
+              "value": 3
+            }
+          ],
+          "threshold_requirements": {
+            "Druid": [
+              {
+                "value": "190+75*ParagonBoardEquipIndex",
+                "name": "Intelligence"
+              }
+            ],
+            "Rogue": [
+              {
+                "value": "190+75*ParagonBoardEquipIndex",
+                "name": "Intelligence"
+              }
+            ],
+            "Spiritborn": [
+              {
+                "value": "190+75*ParagonBoardEquipIndex",
+                "name": "Intelligence"
+              }
+            ],
+            "Paladin": [
+              {
+                "value": "190+75*ParagonBoardEquipIndex",
+                "name": "Intelligence"
+              }
+            ],
+            "Warlock": [
+              {
+                "value": "190+75*ParagonBoardEquipIndex",
+                "name": "Intelligence"
+              }
+            ]
+          }
+        },
+        "Warlock_Rare_016": {
+          "name": "地狱恢复",
+          "attributes": [
+            {
+              "name": "ParagonNodeHPMaxBonus#142",
+              "value": 4
+            },
+            {
+              "name": "ParagonNodeHealingBonus#65",
+              "value": 6
+            }
+          ],
+          "threshold_requirements": {
+            "Druid": [
+              {
+                "value": "630+455*ParagonBoardEquipIndex",
+                "name": "Willpower"
+              }
+            ],
+            "Warlock": [
+              {
+                "value": "630+455*ParagonBoardEquipIndex",
+                "name": "Willpower"
+              }
+            ]
+          }
+        },
+        "Warlock_Rare_018": {
+          "name": "增强",
+          "attributes": [
+            {
+              "name": "ParagonNodeDamageBonusInDemonform#-2147483397",
+              "value": 20
+            },
+            {
+              "name": "Willpower",
+              "value": 10
+            }
+          ],
+          "threshold_requirements": {
+            "Rogue": [
+              {
+                "value": "210+75*ParagonBoardEquipIndex",
+                "name": "Strength"
+              }
+            ],
+            "Spiritborn": [
+              {
+                "value": "210+75*ParagonBoardEquipIndex",
+                "name": "Strength"
+              }
+            ],
+            "Warlock": [
+              {
+                "value": "210+75*ParagonBoardEquipIndex",
+                "name": "Strength"
+              }
+            ]
+          }
+        },
+        "Warlock_Rare_021": {
+          "name": "鼓舞",
+          "attributes": [
+            {
+              "name": "ParagonNodeDamageBonus#252",
+              "value": 20
+            },
+            {
+              "name": "Willpower",
+              "value": 10
+            }
+          ],
+          "threshold_requirements": {
+            "Druid": [
+              {
+                "value": "210+75*ParagonBoardEquipIndex",
+                "name": "Intelligence"
+              }
+            ],
+            "Rogue": [
+              {
+                "value": "210+75*ParagonBoardEquipIndex",
+                "name": "Intelligence"
+              }
+            ],
+            "Spiritborn": [
+              {
+                "value": "210+75*ParagonBoardEquipIndex",
+                "name": "Intelligence"
+              }
+            ],
+            "Paladin": [
+              {
+                "value": "210+75*ParagonBoardEquipIndex",
+                "name": "Intelligence"
+              }
+            ],
+            "Warlock": [
+              {
+                "value": "210+75*ParagonBoardEquipIndex",
+                "name": "Intelligence"
+              }
+            ]
+          }
+        },
+        "Warlock_Rare_020": {
+          "name": "折磨",
+          "attributes": [
+            {
+              "name": "ParagonNodeHPMaxBonus#142",
+              "value": 4
+            },
+            {
+              "name": "ParagonNodeResistAll#79",
+              "value": 3
+            }
+          ],
+          "threshold_requirements": {
+            "Druid": [
+              {
+                "value": "760+455*ParagonBoardEquipIndex",
+                "name": "Willpower"
+              }
+            ],
+            "Warlock": [
+              {
+                "value": "760+455*ParagonBoardEquipIndex",
+                "name": "Willpower"
+              }
+            ]
+          }
+        },
+        "Warlock_Legendary_003": {
+          "name": "动力"
+        },
+        "Warlock_Rare_022": {
+          "name": "凶魔复原",
+          "attributes": [
+            {
+              "name": "ParagonNodeHPMaxBonus#142",
+              "value": 4
+            },
+            {
+              "name": "ParagonNodeHealingBonus#65",
+              "value": 6
+            }
+          ],
+          "threshold_requirements": {
+            "Druid": [
+              {
+                "value": "210+75*ParagonBoardEquipIndex",
+                "name": "Intelligence"
+              }
+            ],
+            "Rogue": [
+              {
+                "value": "210+75*ParagonBoardEquipIndex",
+                "name": "Intelligence"
+              }
+            ],
+            "Spiritborn": [
+              {
+                "value": "210+75*ParagonBoardEquipIndex",
+                "name": "Intelligence"
+              }
+            ],
+            "Paladin": [
+              {
+                "value": "210+75*ParagonBoardEquipIndex",
+                "name": "Intelligence"
+              }
+            ],
+            "Warlock": [
+              {
+                "value": "210+75*ParagonBoardEquipIndex",
+                "name": "Intelligence"
+              }
+            ]
+          }
+        },
+        "Warlock_Legendary_010": {
+          "name": "统治"
+        },
+        "Warlock_Rare_053": {
+          "name": "护甲召唤",
+          "attributes": [
+            {
+              "name": "Warlock_Rare_053#161#11",
+              "value": 2
+            },
+            {
+              "name": "ParagonNodeArmorBonus#481",
+              "value": 2
+            }
+          ],
+          "threshold_requirements": {
+            "Druid": [
+              {
+                "value": "760+455*ParagonBoardEquipIndex",
+                "name": "Willpower"
+              }
+            ],
+            "Warlock": [
+              {
+                "value": "760+455*ParagonBoardEquipIndex",
+                "name": "Willpower"
+              }
+            ]
+          }
+        },
+        "Warlock_Rare_054": {
+          "name": "蝾螈之眼",
+          "attributes": [
+            {
+              "name": "Warlock_Rare_054#161#11",
+              "value": 2
+            },
+            {
+              "name": "ParagonNodeHPMaxBonus#142",
+              "value": 4
+            }
+          ],
+          "threshold_requirements": {
+            "Druid": [
+              {
+                "value": "210+75*ParagonBoardEquipIndex",
+                "name": "Intelligence"
+              }
+            ],
+            "Rogue": [
+              {
+                "value": "210+75*ParagonBoardEquipIndex",
+                "name": "Intelligence"
+              }
+            ],
+            "Spiritborn": [
+              {
+                "value": "210+75*ParagonBoardEquipIndex",
+                "name": "Intelligence"
+              }
+            ],
+            "Paladin": [
+              {
+                "value": "210+75*ParagonBoardEquipIndex",
+                "name": "Intelligence"
+              }
+            ],
+            "Warlock": [
+              {
+                "value": "210+75*ParagonBoardEquipIndex",
+                "name": "Intelligence"
+              }
+            ]
+          }
+        },
+        "Warlock_Rare_055": {
+          "name": "副生肉体",
+          "attributes": [
+            {
+              "name": "ParagonNodeHPMaxBonus#142",
+              "value": 4
+            },
+            {
+              "name": "ParagonNodeResistAll#79",
+              "value": 3
+            }
+          ],
+          "threshold_requirements": {
+            "Rogue": [
+              {
+                "value": "210+75*ParagonBoardEquipIndex",
+                "name": "Strength"
+              }
+            ],
+            "Spiritborn": [
+              {
+                "value": "210+75*ParagonBoardEquipIndex",
+                "name": "Strength"
+              }
+            ],
+            "Warlock": [
+              {
+                "value": "210+75*ParagonBoardEquipIndex",
+                "name": "Strength"
+              }
+            ]
+          }
+        },
+        "Warlock_Rare_058": {
+          "name": "锯齿利爪",
+          "attributes": [
+            {
+              "name": "ParagonNodeDamageBonusToVulnerable#735",
+              "value": 25
+            },
+            {
+              "name": "Willpower",
+              "value": 10
+            }
+          ],
+          "threshold_requirements": {
+            "Rogue": [
+              {
+                "value": "210+75*ParagonBoardEquipIndex",
+                "name": "Strength"
+              }
+            ],
+            "Spiritborn": [
+              {
+                "value": "210+75*ParagonBoardEquipIndex",
+                "name": "Strength"
+              }
+            ],
+            "Warlock": [
+              {
+                "value": "210+75*ParagonBoardEquipIndex",
+                "name": "Strength"
+              }
+            ]
+          }
+        }
+      },
+      "glyph": {
+        "ParagonGlyph_128": {
+          "name": "恶魔学家",
+          "ranks": 100,
+          "threshold_requirements": [
+            {
+              "value": 40,
+              "name": "Willpower"
+            }
+          ],
+          "desc": "每购买辐射范围内 5 点意力，你的{c_important}恶魔学{/c}技能造成的伤害提高 {c_number}+{val1}%{/c}。",
+          "max": 0.121
+        },
+        "ParagonGlyph_113": {
+          "name": "死亡光环",
+          "ranks": 100,
+          "threshold_requirements": [
+            {
+              "value": 40,
+              "name": "Willpower"
+            }
+          ],
+          "desc": "给予辐射范围内所有稀有节点 {c_number}+{val1}%{/c} 加成。",
+          "max": 3.975
+        },
+        "ParagonGlyph_120": {
+          "name": "邪视",
+          "ranks": 100,
+          "threshold_requirements": [
+            {
+              "value": 40,
+              "name": "Willpower"
+            }
+          ],
+          "desc": "每购买辐射范围内 5 点意力，你对{c_important}{u}易伤{/u}{/c}目标造成的伤害提高 {c_number}+{val1}%{/c}。",
+          "max": 0.062
+        },
+        "ParagonGlyph_127": {
+          "name": "损耗",
+          "ranks": 100,
+          "threshold_requirements": [
+            {
+              "value": 25,
+              "name": "Intelligence"
+            }
+          ],
+          "desc": "给予辐射范围内所有稀有节点 {c_number}+{val1}%{/c} 加成。",
+          "max": 3.975
+        },
+        "ParagonGlyph_116": {
+          "name": "地狱熔炉",
+          "ranks": 100,
+          "threshold_requirements": [
+            {
+              "value": 25,
+              "name": "Intelligence"
+            }
+          ],
+          "desc": "每购买辐射范围内 5 点意力，你的{c_important}地狱火{/c}技能造成的伤害提高 {c_number}+{val1}%{/c}。",
+          "max": 0.121
+        }
+      },
+      "board": {
+        "Paragon_Warlock_00": {
+          "name": "开始"
+        },
+        "Paragon_Warlock_01": {
+          "name": "无底深潜"
+        },
+        "Paragon_Warlock_02": {
+          "name": "恶魔尖刺"
+        },
+        "Paragon_Warlock_03": {
+          "name": "动力"
+        },
+        "Paragon_Warlock_10": {
+          "name": "统治"
+        }
+      }
+    }
+  },
+  "legacySelections": {
+    "20": [
+      "Paragon_Warlock_00:14_10_StartNodeWarlock",
+      "Paragon_Warlock_00:13_10_Generic_Normal_Will",
+      "Paragon_Warlock_00:13_11_Generic_Normal_Will",
+      "Paragon_Warlock_00:13_12_Generic_Normal_Will",
+      "Paragon_Warlock_00:12_12_Generic_Magic_Damage",
+      "Paragon_Warlock_00:11_12_Generic_Rare_075",
+      "Paragon_Warlock_00:10_12_Generic_Magic_HPPercent",
+      "Paragon_Warlock_00:9_12_Generic_Normal_Will",
+      "Paragon_Warlock_00:8_12_Generic_Normal_Will",
+      "Paragon_Warlock_00:7_12_Generic_Normal_Will",
+      "Paragon_Warlock_00:6_12_Generic_Normal_Int",
+      "Paragon_Warlock_00:6_11_Generic_Normal_Int",
+      "Paragon_Warlock_00:6_10_Generic_Socket",
+      "Paragon_Warlock_00:5_11_Generic_Magic_DamageToElite",
+      "Paragon_Warlock_00:4_11_Warlock_Rare_004",
+      "Paragon_Warlock_00:3_11_Generic_Magic_DamageToElite",
+      "Paragon_Warlock_00:2_11_Generic_Normal_Int",
+      "Paragon_Warlock_00:1_11_Generic_Normal_Will",
+      "Paragon_Warlock_00:1_10_Generic_Normal_Str",
+      "Paragon_Warlock_00:0_10_Generic_Gate",
+      "Paragon_Warlock_03:10_0_Generic_Gate",
+      "Paragon_Warlock_03:10_1_Generic_Normal_Dex"
+    ],
+    "50": [
+      "Paragon_Warlock_00:14_10_StartNodeWarlock",
+      "Paragon_Warlock_00:13_10_Generic_Normal_Will",
+      "Paragon_Warlock_00:13_11_Generic_Normal_Will",
+      "Paragon_Warlock_00:13_12_Generic_Normal_Will",
+      "Paragon_Warlock_00:12_12_Generic_Magic_Damage",
+      "Paragon_Warlock_00:11_12_Generic_Rare_075",
+      "Paragon_Warlock_00:10_12_Generic_Magic_HPPercent",
+      "Paragon_Warlock_00:9_12_Generic_Normal_Will",
+      "Paragon_Warlock_00:8_12_Generic_Normal_Will",
+      "Paragon_Warlock_00:7_12_Generic_Normal_Will",
+      "Paragon_Warlock_00:6_12_Generic_Normal_Int",
+      "Paragon_Warlock_00:6_11_Generic_Normal_Int",
+      "Paragon_Warlock_00:6_10_Generic_Socket",
+      "Paragon_Warlock_00:5_11_Generic_Magic_DamageToElite",
+      "Paragon_Warlock_00:4_11_Warlock_Rare_004",
+      "Paragon_Warlock_00:3_11_Generic_Magic_DamageToElite",
+      "Paragon_Warlock_00:2_11_Generic_Normal_Int",
+      "Paragon_Warlock_00:1_11_Generic_Normal_Will",
+      "Paragon_Warlock_00:1_10_Generic_Normal_Str",
+      "Paragon_Warlock_00:0_10_Generic_Gate",
+      "Paragon_Warlock_03:10_0_Generic_Gate",
+      "Paragon_Warlock_03:10_1_Generic_Normal_Dex",
+      "Paragon_Warlock_03:9_1_Generic_Normal_Int",
+      "Paragon_Warlock_03:9_2_Generic_Normal_Str",
+      "Paragon_Warlock_03:8_2_Generic_Normal_Will",
+      "Paragon_Warlock_03:8_3_Generic_Normal_Str",
+      "Paragon_Warlock_03:8_4_Generic_Magic_HPPercent",
+      "Paragon_Warlock_03:7_4_Generic_Magic_HPPercent",
+      "Paragon_Warlock_03:6_4_Warlock_Rare_020",
+      "Paragon_Warlock_03:6_5_Generic_Magic_ResistanceFire",
+      "Paragon_Warlock_03:6_6_Generic_Magic_HPPercent",
+      "Paragon_Warlock_03:6_7_Generic_Normal_Will",
+      "Paragon_Warlock_03:7_7_Generic_Normal_Will",
+      "Paragon_Warlock_03:8_7_Generic_Normal_Will",
+      "Paragon_Warlock_03:9_7_Generic_Normal_Will",
+      "Paragon_Warlock_03:10_7_Generic_Normal_Int",
+      "Paragon_Warlock_03:10_6_Warlock_Legendary_003",
+      "Paragon_Warlock_03:6_8_Generic_Normal_Str",
+      "Paragon_Warlock_03:6_9_Generic_Normal_Dex",
+      "Paragon_Warlock_03:6_10_Generic_Normal_Will",
+      "Paragon_Warlock_03:7_10_Generic_Magic_Int",
+      "Paragon_Warlock_03:8_10_Warlock_Rare_021",
+      "Paragon_Warlock_03:9_10_Generic_Magic_Damage",
+      "Paragon_Warlock_03:9_11_Generic_Normal_Will",
+      "Paragon_Warlock_03:10_11_Generic_Normal_Int",
+      "Paragon_Warlock_03:10_12_Generic_Socket",
+      "Paragon_Warlock_03:5_10_Generic_Normal_Str",
+      "Paragon_Warlock_03:4_10_Generic_Normal_Int",
+      "Paragon_Warlock_03:3_10_Generic_Normal_Will",
+      "Paragon_Warlock_03:2_10_Generic_Normal_Will",
+      "Paragon_Warlock_03:1_10_Generic_Normal_Str",
+      "Paragon_Warlock_03:0_10_Generic_Gate",
+      "Paragon_Warlock_10:20_10_Generic_Gate"
+    ],
+    "80": [
+      "Paragon_Warlock_00:14_10_StartNodeWarlock",
+      "Paragon_Warlock_00:13_10_Generic_Normal_Will",
+      "Paragon_Warlock_00:13_11_Generic_Normal_Will",
+      "Paragon_Warlock_00:13_12_Generic_Normal_Will",
+      "Paragon_Warlock_00:12_12_Generic_Magic_Damage",
+      "Paragon_Warlock_00:11_12_Generic_Rare_075",
+      "Paragon_Warlock_00:10_12_Generic_Magic_HPPercent",
+      "Paragon_Warlock_00:9_12_Generic_Normal_Will",
+      "Paragon_Warlock_00:8_12_Generic_Normal_Will",
+      "Paragon_Warlock_00:7_12_Generic_Normal_Will",
+      "Paragon_Warlock_00:6_12_Generic_Normal_Int",
+      "Paragon_Warlock_00:6_11_Generic_Normal_Int",
+      "Paragon_Warlock_00:6_10_Generic_Socket",
+      "Paragon_Warlock_00:5_11_Generic_Magic_DamageToElite",
+      "Paragon_Warlock_00:4_11_Warlock_Rare_004",
+      "Paragon_Warlock_00:3_11_Generic_Magic_DamageToElite",
+      "Paragon_Warlock_00:2_11_Generic_Normal_Int",
+      "Paragon_Warlock_00:1_11_Generic_Normal_Will",
+      "Paragon_Warlock_00:1_10_Generic_Normal_Str",
+      "Paragon_Warlock_00:0_10_Generic_Gate",
+      "Paragon_Warlock_03:10_0_Generic_Gate",
+      "Paragon_Warlock_03:10_1_Generic_Normal_Dex",
+      "Paragon_Warlock_03:9_1_Generic_Normal_Int",
+      "Paragon_Warlock_03:9_2_Generic_Normal_Str",
+      "Paragon_Warlock_03:8_2_Generic_Normal_Will",
+      "Paragon_Warlock_03:8_3_Generic_Normal_Str",
+      "Paragon_Warlock_03:8_4_Generic_Magic_HPPercent",
+      "Paragon_Warlock_03:7_4_Generic_Magic_HPPercent",
+      "Paragon_Warlock_03:6_4_Warlock_Rare_020",
+      "Paragon_Warlock_03:6_5_Generic_Magic_ResistanceFire",
+      "Paragon_Warlock_03:6_6_Generic_Magic_HPPercent",
+      "Paragon_Warlock_03:6_7_Generic_Normal_Will",
+      "Paragon_Warlock_03:7_7_Generic_Normal_Will",
+      "Paragon_Warlock_03:8_7_Generic_Normal_Will",
+      "Paragon_Warlock_03:9_7_Generic_Normal_Will",
+      "Paragon_Warlock_03:10_7_Generic_Normal_Int",
+      "Paragon_Warlock_03:10_6_Warlock_Legendary_003",
+      "Paragon_Warlock_03:6_8_Generic_Normal_Str",
+      "Paragon_Warlock_03:6_9_Generic_Normal_Dex",
+      "Paragon_Warlock_03:6_10_Generic_Normal_Will",
+      "Paragon_Warlock_03:7_10_Generic_Magic_Int",
+      "Paragon_Warlock_03:8_10_Warlock_Rare_021",
+      "Paragon_Warlock_03:9_10_Generic_Magic_Damage",
+      "Paragon_Warlock_03:9_11_Generic_Normal_Will",
+      "Paragon_Warlock_03:10_11_Generic_Normal_Int",
+      "Paragon_Warlock_03:10_12_Generic_Socket",
+      "Paragon_Warlock_03:5_10_Generic_Normal_Str",
+      "Paragon_Warlock_03:4_10_Generic_Normal_Int",
+      "Paragon_Warlock_03:3_10_Generic_Normal_Will",
+      "Paragon_Warlock_03:2_10_Generic_Normal_Will",
+      "Paragon_Warlock_03:1_10_Generic_Normal_Str",
+      "Paragon_Warlock_03:0_10_Generic_Gate",
+      "Paragon_Warlock_10:20_10_Generic_Gate",
+      "Paragon_Warlock_10:19_10_Generic_Normal_Str",
+      "Paragon_Warlock_10:19_9_Generic_Normal_Will",
+      "Paragon_Warlock_10:18_9_Generic_Normal_Will",
+      "Paragon_Warlock_10:18_8_Generic_Normal_Str",
+      "Paragon_Warlock_10:17_8_Generic_Normal_Int",
+      "Paragon_Warlock_10:16_8_Generic_Normal_Int",
+      "Paragon_Warlock_10:15_8_Generic_Normal_Will",
+      "Paragon_Warlock_10:15_9_Generic_Normal_Will",
+      "Paragon_Warlock_10:15_10_Generic_Normal_Str",
+      "Paragon_Warlock_10:14_10_Generic_Normal_Will",
+      "Paragon_Warlock_10:13_10_Warlock_Legendary_010",
+      "Paragon_Warlock_10:12_10_Generic_Normal_Int",
+      "Paragon_Warlock_10:11_10_Generic_Normal_Str",
+      "Paragon_Warlock_10:10_10_Generic_Normal_Will",
+      "Paragon_Warlock_10:10_9_Generic_Normal_Will",
+      "Paragon_Warlock_10:10_8_Generic_Normal_Str",
+      "Paragon_Warlock_10:9_8_Generic_Normal_Int",
+      "Paragon_Warlock_10:8_8_Generic_Normal_Int",
+      "Paragon_Warlock_10:7_8_Generic_Normal_Int",
+      "Paragon_Warlock_10:6_8_Generic_Normal_Str",
+      "Paragon_Warlock_10:6_9_Generic_Normal_Dex",
+      "Paragon_Warlock_10:6_10_Generic_Socket",
+      "Paragon_Warlock_03:11_11_Generic_Normal_Dex",
+      "Paragon_Warlock_03:12_11_Generic_Magic_MaximumDominance",
+      "Paragon_Warlock_03:12_10_Warlock_Rare_018",
+      "Paragon_Warlock_03:13_10_Generic_Magic_Str",
+      "Paragon_Warlock_03:14_10_Generic_Normal_Will",
+      "Paragon_Warlock_03:15_10_Generic_Normal_Str",
+      "Paragon_Warlock_03:16_10_Generic_Normal_Int",
+      "Paragon_Warlock_03:17_10_Generic_Normal_Will"
+    ],
+    "100": [
+      "Paragon_Warlock_00:14_10_StartNodeWarlock",
+      "Paragon_Warlock_00:13_10_Generic_Normal_Will",
+      "Paragon_Warlock_00:13_11_Generic_Normal_Will",
+      "Paragon_Warlock_00:13_12_Generic_Normal_Will",
+      "Paragon_Warlock_00:12_12_Generic_Magic_Damage",
+      "Paragon_Warlock_00:11_12_Generic_Rare_075",
+      "Paragon_Warlock_00:10_12_Generic_Magic_HPPercent",
+      "Paragon_Warlock_00:9_12_Generic_Normal_Will",
+      "Paragon_Warlock_00:8_12_Generic_Normal_Will",
+      "Paragon_Warlock_00:7_12_Generic_Normal_Will",
+      "Paragon_Warlock_00:6_12_Generic_Normal_Int",
+      "Paragon_Warlock_00:6_11_Generic_Normal_Int",
+      "Paragon_Warlock_00:6_10_Generic_Socket",
+      "Paragon_Warlock_00:5_11_Generic_Magic_DamageToElite",
+      "Paragon_Warlock_00:4_11_Warlock_Rare_004",
+      "Paragon_Warlock_00:3_11_Generic_Magic_DamageToElite",
+      "Paragon_Warlock_00:2_11_Generic_Normal_Int",
+      "Paragon_Warlock_00:1_11_Generic_Normal_Will",
+      "Paragon_Warlock_00:1_10_Generic_Normal_Str",
+      "Paragon_Warlock_00:0_10_Generic_Gate",
+      "Paragon_Warlock_03:10_0_Generic_Gate",
+      "Paragon_Warlock_03:10_1_Generic_Normal_Dex",
+      "Paragon_Warlock_03:9_1_Generic_Normal_Int",
+      "Paragon_Warlock_03:9_2_Generic_Normal_Str",
+      "Paragon_Warlock_03:8_2_Generic_Normal_Will",
+      "Paragon_Warlock_03:8_3_Generic_Normal_Str",
+      "Paragon_Warlock_03:8_4_Generic_Magic_HPPercent",
+      "Paragon_Warlock_03:7_4_Generic_Magic_HPPercent",
+      "Paragon_Warlock_03:6_4_Warlock_Rare_020",
+      "Paragon_Warlock_03:6_5_Generic_Magic_ResistanceFire",
+      "Paragon_Warlock_03:6_6_Generic_Magic_HPPercent",
+      "Paragon_Warlock_03:6_7_Generic_Normal_Will",
+      "Paragon_Warlock_03:7_7_Generic_Normal_Will",
+      "Paragon_Warlock_03:8_7_Generic_Normal_Will",
+      "Paragon_Warlock_03:9_7_Generic_Normal_Will",
+      "Paragon_Warlock_03:10_7_Generic_Normal_Int",
+      "Paragon_Warlock_03:10_6_Warlock_Legendary_003",
+      "Paragon_Warlock_03:6_8_Generic_Normal_Str",
+      "Paragon_Warlock_03:6_9_Generic_Normal_Dex",
+      "Paragon_Warlock_03:6_10_Generic_Normal_Will",
+      "Paragon_Warlock_03:7_10_Generic_Magic_Int",
+      "Paragon_Warlock_03:8_10_Warlock_Rare_021",
+      "Paragon_Warlock_03:9_10_Generic_Magic_Damage",
+      "Paragon_Warlock_03:9_11_Generic_Normal_Will",
+      "Paragon_Warlock_03:10_11_Generic_Normal_Int",
+      "Paragon_Warlock_03:10_12_Generic_Socket",
+      "Paragon_Warlock_03:5_10_Generic_Normal_Str",
+      "Paragon_Warlock_03:4_10_Generic_Normal_Int",
+      "Paragon_Warlock_03:3_10_Generic_Normal_Will",
+      "Paragon_Warlock_03:2_10_Generic_Normal_Will",
+      "Paragon_Warlock_03:1_10_Generic_Normal_Str",
+      "Paragon_Warlock_03:0_10_Generic_Gate",
+      "Paragon_Warlock_10:20_10_Generic_Gate",
+      "Paragon_Warlock_10:19_10_Generic_Normal_Str",
+      "Paragon_Warlock_10:19_9_Generic_Normal_Will",
+      "Paragon_Warlock_10:18_9_Generic_Normal_Will",
+      "Paragon_Warlock_10:18_8_Generic_Normal_Str",
+      "Paragon_Warlock_10:17_8_Generic_Normal_Int",
+      "Paragon_Warlock_10:16_8_Generic_Normal_Int",
+      "Paragon_Warlock_10:15_8_Generic_Normal_Will",
+      "Paragon_Warlock_10:15_9_Generic_Normal_Will",
+      "Paragon_Warlock_10:15_10_Generic_Normal_Str",
+      "Paragon_Warlock_10:14_10_Generic_Normal_Will",
+      "Paragon_Warlock_10:13_10_Warlock_Legendary_010",
+      "Paragon_Warlock_10:12_10_Generic_Normal_Int",
+      "Paragon_Warlock_10:11_10_Generic_Normal_Str",
+      "Paragon_Warlock_10:10_10_Generic_Normal_Will",
+      "Paragon_Warlock_10:10_9_Generic_Normal_Will",
+      "Paragon_Warlock_10:10_8_Generic_Normal_Str",
+      "Paragon_Warlock_10:9_8_Generic_Normal_Int",
+      "Paragon_Warlock_10:8_8_Generic_Normal_Int",
+      "Paragon_Warlock_10:7_8_Generic_Normal_Int",
+      "Paragon_Warlock_10:6_8_Generic_Normal_Str",
+      "Paragon_Warlock_10:6_9_Generic_Normal_Dex",
+      "Paragon_Warlock_10:6_10_Generic_Socket",
+      "Paragon_Warlock_03:11_11_Generic_Normal_Dex",
+      "Paragon_Warlock_03:12_11_Generic_Magic_MaximumDominance",
+      "Paragon_Warlock_03:12_10_Warlock_Rare_018",
+      "Paragon_Warlock_03:13_10_Generic_Magic_Str",
+      "Paragon_Warlock_03:14_10_Generic_Normal_Will",
+      "Paragon_Warlock_03:15_10_Generic_Normal_Str",
+      "Paragon_Warlock_03:16_10_Generic_Normal_Int",
+      "Paragon_Warlock_03:17_10_Generic_Normal_Will",
+      "Paragon_Warlock_03:18_10_Generic_Normal_Will",
+      "Paragon_Warlock_03:19_10_Generic_Normal_Str",
+      "Paragon_Warlock_03:20_10_Generic_Gate",
+      "Paragon_Warlock_01:10_20_Generic_Gate",
+      "Paragon_Warlock_01:10_19_Generic_Normal_Will",
+      "Paragon_Warlock_01:9_19_Generic_Normal_Will",
+      "Paragon_Warlock_01:8_19_Generic_Normal_Int",
+      "Paragon_Warlock_01:7_19_Generic_Normal_Will",
+      "Paragon_Warlock_01:6_19_Generic_Magic_Int",
+      "Paragon_Warlock_01:5_19_Generic_Magic_DamageDemonology",
+      "Paragon_Warlock_01:5_18_Warlock_Rare_009",
+      "Paragon_Warlock_01:5_17_Generic_Magic_DamageDemonology",
+      "Paragon_Warlock_01:5_16_Generic_Normal_Int",
+      "Paragon_Warlock_01:5_15_Generic_Socket",
+      "Paragon_Warlock_01:5_14_Generic_Normal_Will",
+      "Paragon_Warlock_01:5_13_Generic_Normal_Int",
+      "Paragon_Warlock_01:5_12_Generic_Normal_Int",
+      "Paragon_Warlock_01:6_12_Generic_Normal_Int",
+      "Paragon_Warlock_01:7_12_Generic_Normal_Will",
+      "Paragon_Warlock_01:8_12_Generic_Magic_ResistanceFire",
+      "Paragon_Warlock_01:8_11_Generic_Magic_DamageReductionFromBleedingTarget"
+    ],
+    "150": [
+      "Paragon_Warlock_00:14_10_StartNodeWarlock",
+      "Paragon_Warlock_00:13_10_Generic_Normal_Will",
+      "Paragon_Warlock_00:13_11_Generic_Normal_Will",
+      "Paragon_Warlock_00:13_12_Generic_Normal_Will",
+      "Paragon_Warlock_00:12_12_Generic_Magic_Damage",
+      "Paragon_Warlock_00:11_12_Generic_Rare_075",
+      "Paragon_Warlock_00:10_12_Generic_Magic_HPPercent",
+      "Paragon_Warlock_00:9_12_Generic_Normal_Will",
+      "Paragon_Warlock_00:8_12_Generic_Normal_Will",
+      "Paragon_Warlock_00:7_12_Generic_Normal_Will",
+      "Paragon_Warlock_00:6_12_Generic_Normal_Int",
+      "Paragon_Warlock_00:6_11_Generic_Normal_Int",
+      "Paragon_Warlock_00:6_10_Generic_Socket",
+      "Paragon_Warlock_00:5_11_Generic_Magic_DamageToElite",
+      "Paragon_Warlock_00:4_11_Warlock_Rare_004",
+      "Paragon_Warlock_00:3_11_Generic_Magic_DamageToElite",
+      "Paragon_Warlock_00:2_11_Generic_Normal_Int",
+      "Paragon_Warlock_00:1_11_Generic_Normal_Will",
+      "Paragon_Warlock_00:1_10_Generic_Normal_Str",
+      "Paragon_Warlock_00:0_10_Generic_Gate",
+      "Paragon_Warlock_03:10_0_Generic_Gate",
+      "Paragon_Warlock_03:10_1_Generic_Normal_Dex",
+      "Paragon_Warlock_03:9_1_Generic_Normal_Int",
+      "Paragon_Warlock_03:9_2_Generic_Normal_Str",
+      "Paragon_Warlock_03:8_2_Generic_Normal_Will",
+      "Paragon_Warlock_03:8_3_Generic_Normal_Str",
+      "Paragon_Warlock_03:8_4_Generic_Magic_HPPercent",
+      "Paragon_Warlock_03:7_4_Generic_Magic_HPPercent",
+      "Paragon_Warlock_03:6_4_Warlock_Rare_020",
+      "Paragon_Warlock_03:6_5_Generic_Magic_ResistanceFire",
+      "Paragon_Warlock_03:6_6_Generic_Magic_HPPercent",
+      "Paragon_Warlock_03:6_7_Generic_Normal_Will",
+      "Paragon_Warlock_03:7_7_Generic_Normal_Will",
+      "Paragon_Warlock_03:8_7_Generic_Normal_Will",
+      "Paragon_Warlock_03:9_7_Generic_Normal_Will",
+      "Paragon_Warlock_03:10_7_Generic_Normal_Int",
+      "Paragon_Warlock_03:10_6_Warlock_Legendary_003",
+      "Paragon_Warlock_03:6_8_Generic_Normal_Str",
+      "Paragon_Warlock_03:6_9_Generic_Normal_Dex",
+      "Paragon_Warlock_03:6_10_Generic_Normal_Will",
+      "Paragon_Warlock_03:7_10_Generic_Magic_Int",
+      "Paragon_Warlock_03:8_10_Warlock_Rare_021",
+      "Paragon_Warlock_03:9_10_Generic_Magic_Damage",
+      "Paragon_Warlock_03:9_11_Generic_Normal_Will",
+      "Paragon_Warlock_03:10_11_Generic_Normal_Int",
+      "Paragon_Warlock_03:10_12_Generic_Socket",
+      "Paragon_Warlock_03:5_10_Generic_Normal_Str",
+      "Paragon_Warlock_03:4_10_Generic_Normal_Int",
+      "Paragon_Warlock_03:3_10_Generic_Normal_Will",
+      "Paragon_Warlock_03:2_10_Generic_Normal_Will",
+      "Paragon_Warlock_03:1_10_Generic_Normal_Str",
+      "Paragon_Warlock_03:0_10_Generic_Gate",
+      "Paragon_Warlock_10:20_10_Generic_Gate",
+      "Paragon_Warlock_10:19_10_Generic_Normal_Str",
+      "Paragon_Warlock_10:19_9_Generic_Normal_Will",
+      "Paragon_Warlock_10:18_9_Generic_Normal_Will",
+      "Paragon_Warlock_10:18_8_Generic_Normal_Str",
+      "Paragon_Warlock_10:17_8_Generic_Normal_Int",
+      "Paragon_Warlock_10:16_8_Generic_Normal_Int",
+      "Paragon_Warlock_10:15_8_Generic_Normal_Will",
+      "Paragon_Warlock_10:15_9_Generic_Normal_Will",
+      "Paragon_Warlock_10:15_10_Generic_Normal_Str",
+      "Paragon_Warlock_10:14_10_Generic_Normal_Will",
+      "Paragon_Warlock_10:13_10_Warlock_Legendary_010",
+      "Paragon_Warlock_10:12_10_Generic_Normal_Int",
+      "Paragon_Warlock_10:11_10_Generic_Normal_Str",
+      "Paragon_Warlock_10:10_10_Generic_Normal_Will",
+      "Paragon_Warlock_10:10_9_Generic_Normal_Will",
+      "Paragon_Warlock_10:10_8_Generic_Normal_Str",
+      "Paragon_Warlock_10:9_8_Generic_Normal_Int",
+      "Paragon_Warlock_10:8_8_Generic_Normal_Int",
+      "Paragon_Warlock_10:7_8_Generic_Normal_Int",
+      "Paragon_Warlock_10:6_8_Generic_Normal_Str",
+      "Paragon_Warlock_10:6_9_Generic_Normal_Dex",
+      "Paragon_Warlock_10:6_10_Generic_Socket",
+      "Paragon_Warlock_03:11_11_Generic_Normal_Dex",
+      "Paragon_Warlock_03:12_11_Generic_Magic_MaximumDominance",
+      "Paragon_Warlock_03:12_10_Warlock_Rare_018",
+      "Paragon_Warlock_03:13_10_Generic_Magic_Str",
+      "Paragon_Warlock_03:14_10_Generic_Normal_Will",
+      "Paragon_Warlock_03:15_10_Generic_Normal_Str",
+      "Paragon_Warlock_03:16_10_Generic_Normal_Int",
+      "Paragon_Warlock_03:17_10_Generic_Normal_Will",
+      "Paragon_Warlock_03:18_10_Generic_Normal_Will",
+      "Paragon_Warlock_03:19_10_Generic_Normal_Str",
+      "Paragon_Warlock_03:20_10_Generic_Gate",
+      "Paragon_Warlock_01:10_20_Generic_Gate",
+      "Paragon_Warlock_01:10_19_Generic_Normal_Will",
+      "Paragon_Warlock_01:9_19_Generic_Normal_Will",
+      "Paragon_Warlock_01:8_19_Generic_Normal_Int",
+      "Paragon_Warlock_01:7_19_Generic_Normal_Will",
+      "Paragon_Warlock_01:6_19_Generic_Magic_Int",
+      "Paragon_Warlock_01:5_19_Generic_Magic_DamageDemonology",
+      "Paragon_Warlock_01:5_18_Warlock_Rare_009",
+      "Paragon_Warlock_01:5_17_Generic_Magic_DamageDemonology",
+      "Paragon_Warlock_01:5_16_Generic_Normal_Int",
+      "Paragon_Warlock_01:5_15_Generic_Socket",
+      "Paragon_Warlock_01:5_14_Generic_Normal_Will",
+      "Paragon_Warlock_01:5_13_Generic_Normal_Int",
+      "Paragon_Warlock_01:5_12_Generic_Normal_Int",
+      "Paragon_Warlock_01:6_12_Generic_Normal_Int",
+      "Paragon_Warlock_01:7_12_Generic_Normal_Will",
+      "Paragon_Warlock_01:8_12_Generic_Magic_ResistanceFire",
+      "Paragon_Warlock_01:8_11_Generic_Magic_DamageReductionFromBleedingTarget",
+      "Paragon_Warlock_01:9_11_Warlock_Rare_007",
+      "Paragon_Warlock_01:10_11_Generic_Magic_DamageReductionFromBleedingTarget",
+      "Paragon_Warlock_01:11_11_Generic_Normal_Dex",
+      "Paragon_Warlock_01:12_11_Generic_Normal_Int",
+      "Paragon_Warlock_01:12_10_Generic_Normal_Int",
+      "Paragon_Warlock_01:12_9_Generic_Normal_Dex",
+      "Paragon_Warlock_01:13_9_Generic_Normal_Str",
+      "Paragon_Warlock_01:13_8_Generic_Normal_Int",
+      "Paragon_Warlock_01:14_8_Generic_Normal_Str",
+      "Paragon_Warlock_01:14_7_Generic_Normal_Int",
+      "Paragon_Warlock_01:14_6_Generic_Normal_Will",
+      "Paragon_Warlock_01:14_5_Generic_Normal_Will",
+      "Paragon_Warlock_01:15_5_Warlock_Legendary_001",
+      "Paragon_Warlock_01:4_15_Generic_Normal_Will",
+      "Paragon_Warlock_01:3_15_Generic_Magic_Damage",
+      "Paragon_Warlock_01:2_15_Warlock_Rare_010",
+      "Paragon_Warlock_01:1_15_Generic_Magic_Damage",
+      "Paragon_Warlock_01:1_14_Generic_Magic_Str",
+      "Paragon_Warlock_01:1_13_Generic_Normal_Int",
+      "Paragon_Warlock_01:1_12_Generic_Normal_Int",
+      "Paragon_Warlock_01:1_11_Generic_Normal_Will",
+      "Paragon_Warlock_01:1_10_Generic_Normal_Str",
+      "Paragon_Warlock_01:0_10_Generic_Gate",
+      "Paragon_Warlock_02:10_0_Generic_Gate",
+      "Paragon_Warlock_02:10_1_Generic_Normal_Dex",
+      "Paragon_Warlock_02:10_2_Generic_Normal_Str",
+      "Paragon_Warlock_02:10_3_Generic_Normal_Will",
+      "Paragon_Warlock_02:11_3_Generic_Normal_Will",
+      "Paragon_Warlock_02:12_3_Generic_Normal_Str",
+      "Paragon_Warlock_02:12_4_Generic_Normal_Str",
+      "Paragon_Warlock_02:12_5_Generic_Normal_Will",
+      "Paragon_Warlock_02:12_6_Generic_Normal_Int",
+      "Paragon_Warlock_02:12_7_Generic_Normal_Will",
+      "Paragon_Warlock_02:12_8_Generic_Magic_Damage",
+      "Paragon_Warlock_02:12_9_Warlock_Rare_013",
+      "Paragon_Warlock_02:12_10_Generic_Magic_Damage",
+      "Paragon_Warlock_02:12_11_Generic_Normal_Int",
+      "Paragon_Warlock_02:12_12_Generic_Socket",
+      "Paragon_Warlock_02:11_12_Generic_Normal_Will",
+      "Paragon_Warlock_02:10_12_Generic_Magic_MaximumWrath",
+      "Paragon_Warlock_02:9_12_Warlock_Rare_014",
+      "Paragon_Warlock_02:8_12_Generic_Magic_MaximumWrath",
+      "Paragon_Warlock_02:7_12_Generic_Normal_Will",
+      "Paragon_Warlock_02:6_12_Generic_Normal_Int",
+      "Paragon_Warlock_02:6_11_Generic_Normal_Int",
+      "Paragon_Warlock_02:6_10_Generic_Normal_Will",
+      "Paragon_Warlock_02:6_9_Generic_Normal_Dex",
+      "Paragon_Warlock_02:6_8_Generic_Normal_Str",
+      "Paragon_Warlock_02:7_8_Generic_Normal_Int",
+      "Paragon_Warlock_02:8_8_Generic_Normal_Int",
+      "Paragon_Warlock_02:8_9_Generic_Normal_Will"
+    ],
+    "200": [
+      "Paragon_Warlock_00:14_10_StartNodeWarlock",
+      "Paragon_Warlock_00:13_10_Generic_Normal_Will",
+      "Paragon_Warlock_00:13_11_Generic_Normal_Will",
+      "Paragon_Warlock_00:13_12_Generic_Normal_Will",
+      "Paragon_Warlock_00:12_12_Generic_Magic_Damage",
+      "Paragon_Warlock_00:11_12_Generic_Rare_075",
+      "Paragon_Warlock_00:10_12_Generic_Magic_HPPercent",
+      "Paragon_Warlock_00:9_12_Generic_Normal_Will",
+      "Paragon_Warlock_00:8_12_Generic_Normal_Will",
+      "Paragon_Warlock_00:7_12_Generic_Normal_Will",
+      "Paragon_Warlock_00:6_12_Generic_Normal_Int",
+      "Paragon_Warlock_00:6_11_Generic_Normal_Int",
+      "Paragon_Warlock_00:6_10_Generic_Socket",
+      "Paragon_Warlock_00:5_11_Generic_Magic_DamageToElite",
+      "Paragon_Warlock_00:4_11_Warlock_Rare_004",
+      "Paragon_Warlock_00:3_11_Generic_Magic_DamageToElite",
+      "Paragon_Warlock_00:2_11_Generic_Normal_Int",
+      "Paragon_Warlock_00:1_11_Generic_Normal_Will",
+      "Paragon_Warlock_00:1_10_Generic_Normal_Str",
+      "Paragon_Warlock_00:0_10_Generic_Gate",
+      "Paragon_Warlock_03:10_0_Generic_Gate",
+      "Paragon_Warlock_03:10_1_Generic_Normal_Dex",
+      "Paragon_Warlock_03:9_1_Generic_Normal_Int",
+      "Paragon_Warlock_03:9_2_Generic_Normal_Str",
+      "Paragon_Warlock_03:8_2_Generic_Normal_Will",
+      "Paragon_Warlock_03:8_3_Generic_Normal_Str",
+      "Paragon_Warlock_03:8_4_Generic_Magic_HPPercent",
+      "Paragon_Warlock_03:7_4_Generic_Magic_HPPercent",
+      "Paragon_Warlock_03:6_4_Warlock_Rare_020",
+      "Paragon_Warlock_03:6_5_Generic_Magic_ResistanceFire",
+      "Paragon_Warlock_03:6_6_Generic_Magic_HPPercent",
+      "Paragon_Warlock_03:6_7_Generic_Normal_Will",
+      "Paragon_Warlock_03:7_7_Generic_Normal_Will",
+      "Paragon_Warlock_03:8_7_Generic_Normal_Will",
+      "Paragon_Warlock_03:9_7_Generic_Normal_Will",
+      "Paragon_Warlock_03:10_7_Generic_Normal_Int",
+      "Paragon_Warlock_03:10_6_Warlock_Legendary_003",
+      "Paragon_Warlock_03:6_8_Generic_Normal_Str",
+      "Paragon_Warlock_03:6_9_Generic_Normal_Dex",
+      "Paragon_Warlock_03:6_10_Generic_Normal_Will",
+      "Paragon_Warlock_03:7_10_Generic_Magic_Int",
+      "Paragon_Warlock_03:8_10_Warlock_Rare_021",
+      "Paragon_Warlock_03:9_10_Generic_Magic_Damage",
+      "Paragon_Warlock_03:9_11_Generic_Normal_Will",
+      "Paragon_Warlock_03:10_11_Generic_Normal_Int",
+      "Paragon_Warlock_03:10_12_Generic_Socket",
+      "Paragon_Warlock_03:5_10_Generic_Normal_Str",
+      "Paragon_Warlock_03:4_10_Generic_Normal_Int",
+      "Paragon_Warlock_03:3_10_Generic_Normal_Will",
+      "Paragon_Warlock_03:2_10_Generic_Normal_Will",
+      "Paragon_Warlock_03:1_10_Generic_Normal_Str",
+      "Paragon_Warlock_03:0_10_Generic_Gate",
+      "Paragon_Warlock_10:20_10_Generic_Gate",
+      "Paragon_Warlock_10:19_10_Generic_Normal_Str",
+      "Paragon_Warlock_10:19_9_Generic_Normal_Will",
+      "Paragon_Warlock_10:18_9_Generic_Normal_Will",
+      "Paragon_Warlock_10:18_8_Generic_Normal_Str",
+      "Paragon_Warlock_10:17_8_Generic_Normal_Int",
+      "Paragon_Warlock_10:16_8_Generic_Normal_Int",
+      "Paragon_Warlock_10:15_8_Generic_Normal_Will",
+      "Paragon_Warlock_10:15_9_Generic_Normal_Will",
+      "Paragon_Warlock_10:15_10_Generic_Normal_Str",
+      "Paragon_Warlock_10:14_10_Generic_Normal_Will",
+      "Paragon_Warlock_10:13_10_Warlock_Legendary_010",
+      "Paragon_Warlock_10:12_10_Generic_Normal_Int",
+      "Paragon_Warlock_10:11_10_Generic_Normal_Str",
+      "Paragon_Warlock_10:10_10_Generic_Normal_Will",
+      "Paragon_Warlock_10:10_9_Generic_Normal_Will",
+      "Paragon_Warlock_10:10_8_Generic_Normal_Str",
+      "Paragon_Warlock_10:9_8_Generic_Normal_Int",
+      "Paragon_Warlock_10:8_8_Generic_Normal_Int",
+      "Paragon_Warlock_10:7_8_Generic_Normal_Int",
+      "Paragon_Warlock_10:6_8_Generic_Normal_Str",
+      "Paragon_Warlock_10:6_9_Generic_Normal_Dex",
+      "Paragon_Warlock_10:6_10_Generic_Socket",
+      "Paragon_Warlock_03:11_11_Generic_Normal_Dex",
+      "Paragon_Warlock_03:12_11_Generic_Magic_MaximumDominance",
+      "Paragon_Warlock_03:12_10_Warlock_Rare_018",
+      "Paragon_Warlock_03:13_10_Generic_Magic_Str",
+      "Paragon_Warlock_03:14_10_Generic_Normal_Will",
+      "Paragon_Warlock_03:15_10_Generic_Normal_Str",
+      "Paragon_Warlock_03:16_10_Generic_Normal_Int",
+      "Paragon_Warlock_03:17_10_Generic_Normal_Will",
+      "Paragon_Warlock_03:18_10_Generic_Normal_Will",
+      "Paragon_Warlock_03:19_10_Generic_Normal_Str",
+      "Paragon_Warlock_03:20_10_Generic_Gate",
+      "Paragon_Warlock_01:10_20_Generic_Gate",
+      "Paragon_Warlock_01:10_19_Generic_Normal_Will",
+      "Paragon_Warlock_01:9_19_Generic_Normal_Will",
+      "Paragon_Warlock_01:8_19_Generic_Normal_Int",
+      "Paragon_Warlock_01:7_19_Generic_Normal_Will",
+      "Paragon_Warlock_01:6_19_Generic_Magic_Int",
+      "Paragon_Warlock_01:5_19_Generic_Magic_DamageDemonology",
+      "Paragon_Warlock_01:5_18_Warlock_Rare_009",
+      "Paragon_Warlock_01:5_17_Generic_Magic_DamageDemonology",
+      "Paragon_Warlock_01:5_16_Generic_Normal_Int",
+      "Paragon_Warlock_01:5_15_Generic_Socket",
+      "Paragon_Warlock_01:5_14_Generic_Normal_Will",
+      "Paragon_Warlock_01:5_13_Generic_Normal_Int",
+      "Paragon_Warlock_01:5_12_Generic_Normal_Int",
+      "Paragon_Warlock_01:6_12_Generic_Normal_Int",
+      "Paragon_Warlock_01:7_12_Generic_Normal_Will",
+      "Paragon_Warlock_01:8_12_Generic_Magic_ResistanceFire",
+      "Paragon_Warlock_01:8_11_Generic_Magic_DamageReductionFromBleedingTarget",
+      "Paragon_Warlock_01:9_11_Warlock_Rare_007",
+      "Paragon_Warlock_01:10_11_Generic_Magic_DamageReductionFromBleedingTarget",
+      "Paragon_Warlock_01:11_11_Generic_Normal_Dex",
+      "Paragon_Warlock_01:12_11_Generic_Normal_Int",
+      "Paragon_Warlock_01:12_10_Generic_Normal_Int",
+      "Paragon_Warlock_01:12_9_Generic_Normal_Dex",
+      "Paragon_Warlock_01:13_9_Generic_Normal_Str",
+      "Paragon_Warlock_01:13_8_Generic_Normal_Int",
+      "Paragon_Warlock_01:14_8_Generic_Normal_Str",
+      "Paragon_Warlock_01:14_7_Generic_Normal_Int",
+      "Paragon_Warlock_01:14_6_Generic_Normal_Will",
+      "Paragon_Warlock_01:14_5_Generic_Normal_Will",
+      "Paragon_Warlock_01:15_5_Warlock_Legendary_001",
+      "Paragon_Warlock_01:4_15_Generic_Normal_Will",
+      "Paragon_Warlock_01:3_15_Generic_Magic_Damage",
+      "Paragon_Warlock_01:2_15_Warlock_Rare_010",
+      "Paragon_Warlock_01:1_15_Generic_Magic_Damage",
+      "Paragon_Warlock_01:1_14_Generic_Magic_Str",
+      "Paragon_Warlock_01:1_13_Generic_Normal_Int",
+      "Paragon_Warlock_01:1_12_Generic_Normal_Int",
+      "Paragon_Warlock_01:1_11_Generic_Normal_Will",
+      "Paragon_Warlock_01:1_10_Generic_Normal_Str",
+      "Paragon_Warlock_01:0_10_Generic_Gate",
+      "Paragon_Warlock_02:10_0_Generic_Gate",
+      "Paragon_Warlock_02:10_1_Generic_Normal_Dex",
+      "Paragon_Warlock_02:10_2_Generic_Normal_Str",
+      "Paragon_Warlock_02:10_3_Generic_Normal_Will",
+      "Paragon_Warlock_02:11_3_Generic_Normal_Will",
+      "Paragon_Warlock_02:12_3_Generic_Normal_Str",
+      "Paragon_Warlock_02:12_4_Generic_Normal_Str",
+      "Paragon_Warlock_02:12_5_Generic_Normal_Will",
+      "Paragon_Warlock_02:12_6_Generic_Normal_Int",
+      "Paragon_Warlock_02:12_7_Generic_Normal_Will",
+      "Paragon_Warlock_02:12_8_Generic_Magic_Damage",
+      "Paragon_Warlock_02:12_9_Warlock_Rare_013",
+      "Paragon_Warlock_02:12_10_Generic_Magic_Damage",
+      "Paragon_Warlock_02:12_11_Generic_Normal_Int",
+      "Paragon_Warlock_02:12_12_Generic_Socket",
+      "Paragon_Warlock_02:11_12_Generic_Normal_Will",
+      "Paragon_Warlock_02:10_12_Generic_Magic_MaximumWrath",
+      "Paragon_Warlock_02:9_12_Warlock_Rare_014",
+      "Paragon_Warlock_02:8_12_Generic_Magic_MaximumWrath",
+      "Paragon_Warlock_02:7_12_Generic_Normal_Will",
+      "Paragon_Warlock_02:6_12_Generic_Normal_Int",
+      "Paragon_Warlock_02:6_11_Generic_Normal_Int",
+      "Paragon_Warlock_02:6_10_Generic_Normal_Will",
+      "Paragon_Warlock_02:6_9_Generic_Normal_Dex",
+      "Paragon_Warlock_02:6_8_Generic_Normal_Str",
+      "Paragon_Warlock_02:7_8_Generic_Normal_Int",
+      "Paragon_Warlock_02:8_8_Generic_Normal_Int",
+      "Paragon_Warlock_02:8_9_Generic_Normal_Will",
+      "Paragon_Warlock_02:9_9_Warlock_Legendary_002",
+      "Paragon_Warlock_10:15_7_Warlock_Rare_053",
+      "Paragon_Warlock_02:13_3_Generic_Magic_HPPercent",
+      "Paragon_Warlock_02:14_3_Warlock_Rare_012",
+      "Paragon_Warlock_00:6_9_Generic_Normal_Dex",
+      "Paragon_Warlock_00:5_9_Generic_Magic_Damage",
+      "Paragon_Warlock_00:4_9_Warlock_Rare_003",
+      "Paragon_Warlock_10:15_11_Generic_Normal_Dex",
+      "Paragon_Warlock_10:15_12_Generic_Normal_Int",
+      "Paragon_Warlock_10:15_13_Warlock_Rare_054",
+      "Paragon_Warlock_10:6_11_Generic_Normal_Int",
+      "Paragon_Warlock_10:6_12_Generic_Normal_Int",
+      "Paragon_Warlock_10:6_13_Generic_Magic_Str",
+      "Paragon_Warlock_10:5_13_Warlock_Rare_058",
+      "Paragon_Warlock_02:5_8_Generic_Normal_Will",
+      "Paragon_Warlock_02:5_7_Generic_Normal_Will",
+      "Paragon_Warlock_02:5_6_Generic_Magic_CriticalChance",
+      "Paragon_Warlock_02:5_5_Warlock_Rare_015",
+      "Paragon_Warlock_01:12_12_Generic_Normal_Will",
+      "Paragon_Warlock_01:13_12_Generic_Normal_Will",
+      "Paragon_Warlock_01:14_12_Generic_Magic_DamageDemonology",
+      "Paragon_Warlock_01:14_13_Generic_Magic_CriticalDamage",
+      "Paragon_Warlock_01:15_13_Warlock_Rare_006",
+      "Paragon_Warlock_02:5_12_Generic_Normal_Int",
+      "Paragon_Warlock_02:4_12_Generic_Normal_Will",
+      "Paragon_Warlock_02:4_13_Generic_Magic_HPPercent",
+      "Paragon_Warlock_02:3_13_Generic_Magic_HPPercent",
+      "Paragon_Warlock_02:3_14_Warlock_Rare_016",
+      "Paragon_Warlock_00:7_9_Generic_Normal_Will",
+      "Paragon_Warlock_00:8_9_Generic_Normal_Will",
+      "Paragon_Warlock_00:9_9_Generic_Normal_Str",
+      "Paragon_Warlock_00:10_9_Generic_Normal_Will",
+      "Paragon_Warlock_00:11_9_Generic_Magic_HPPercent",
+      "Paragon_Warlock_00:11_8_Generic_Rare_001",
+      "Paragon_Warlock_03:4_11_Generic_Normal_Str",
+      "Paragon_Warlock_03:4_12_Generic_Normal_Will",
+      "Paragon_Warlock_03:4_13_Generic_Normal_Dex",
+      "Paragon_Warlock_03:4_14_Generic_Magic_HPPercent",
+      "Paragon_Warlock_03:3_14_Generic_Magic_HPPercent",
+      "Paragon_Warlock_03:3_15_Warlock_Rare_022",
+      "Paragon_Warlock_10:8_7_Generic_Normal_Will",
+      "Paragon_Warlock_10:8_6_Generic_Normal_Int",
+      "Paragon_Warlock_10:8_5_Generic_Normal_Will",
+      "Paragon_Warlock_10:9_5_Generic_Magic_HPPercent",
+      "Paragon_Warlock_10:10_5_Generic_Magic_HPPercent",
+      "Paragon_Warlock_10:10_4_Warlock_Rare_055",
+      "Paragon_Warlock_01:9_10_Generic_Magic_ResistanceFire",
+      "Paragon_Warlock_01:9_9_Generic_Normal_Str",
+      "Paragon_Warlock_01:8_9_Generic_Normal_Will",
+      "Paragon_Warlock_01:8_8_Generic_Normal_Int"
+    ]
+  }
+}
